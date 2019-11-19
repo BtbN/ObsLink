@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29512.175
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ObsLink", "ObsLink.vcxproj", "{AC4C94A2-0D31-40FA-9C5D-101D7F2E1E43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC4C94A2-0D31-40FA-9C5D-101D7F2E1E43}.Debug|x64.ActiveCfg = Debug|x64
+		{AC4C94A2-0D31-40FA-9C5D-101D7F2E1E43}.Debug|x64.Build.0 = Debug|x64
+		{AC4C94A2-0D31-40FA-9C5D-101D7F2E1E43}.Debug|x86.ActiveCfg = Debug|Win32
+		{AC4C94A2-0D31-40FA-9C5D-101D7F2E1E43}.Debug|x86.Build.0 = Debug|Win32
+		{AC4C94A2-0D31-40FA-9C5D-101D7F2E1E43}.Release|x64.ActiveCfg = Release|x64
+		{AC4C94A2-0D31-40FA-9C5D-101D7F2E1E43}.Release|x64.Build.0 = Release|x64
+		{AC4C94A2-0D31-40FA-9C5D-101D7F2E1E43}.Release|x86.ActiveCfg = Release|Win32
+		{AC4C94A2-0D31-40FA-9C5D-101D7F2E1E43}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D935218-0509-4AA4-971C-E6AA4D8DA5B6}
+	EndGlobalSection
+EndGlobal
